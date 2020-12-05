@@ -1,6 +1,4 @@
-//
-//  main.cpp
-//  Assignment 3
+
 //
 //  Created by Tara Rao-Pandit on 2020-10-30.
 //  Copyright © 2020 Tara Rao-Pandit. All rights reserved.
